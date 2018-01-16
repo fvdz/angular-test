@@ -1,0 +1,5 @@
+p.warning {
+    padding: 20px;
+    border: 1px solid red;
+    background: rgb(241, 209, 209)
+}
